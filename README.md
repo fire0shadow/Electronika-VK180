@@ -1,7 +1,5 @@
-# VK180
-Russia / USSR 180 Minute VHS Tape<br>
-<img align="left" width="400" src="https://raw.githubusercontent.com/fire0shadow/VK180/master/slipcase-1c1.png">
-<img align="left" width="400" src="https://raw.githubusercontent.com/fire0shadow/VK180/master/stickers-1c1.png">
+# Видеокассета ВК-180
+Советская VHS видеокассета на 180 минут
 
 <table>
   <tr>
@@ -41,3 +39,6 @@ Russia / USSR 180 Minute VHS Tape<br>
     <td>Коробка, стандартный вариант для печати и склейки</td>
   </tr>
 </table>
+
+<img align="left" width="400" src="https://raw.githubusercontent.com/fire0shadow/VK180/master/slipcase-1c1.png">
+<img align="left" width="400" src="https://raw.githubusercontent.com/fire0shadow/VK180/master/stickers-1c1.png">
