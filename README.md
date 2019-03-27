@@ -44,6 +44,6 @@
   </tr>
 </table>
 
-<img align="left" width="300" src="https://raw.githubusercontent.com/fire0shadow/VK180/master/slipcase-1c1.png">
-<img align="left" width="300" src="https://raw.githubusercontent.com/fire0shadow/VK180/master/slipcase-2c1.png">
-<img align="left" width="300" src="https://raw.githubusercontent.com/fire0shadow/VK180/master/stickers-1c1.png">
+<img align="left" width="200" src="https://raw.githubusercontent.com/fire0shadow/VK180/master/slipcase-1c1.png">
+<img align="left" width="200" src="https://raw.githubusercontent.com/fire0shadow/VK180/master/slipcase-2c1.png">
+<img align="left" width="200" src="https://raw.githubusercontent.com/fire0shadow/VK180/master/stickers-1c1.png">
