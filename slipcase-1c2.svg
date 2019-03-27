@@ -15,10 +15,10 @@
    version="1.1"
    id="svg8"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   sodipodi:docname="slipcase.svg"
-   inkscape:export-filename="C:\Users\Fireshadow\Desktop\slipcase.png"
-   inkscape:export-xdpi="322.54193"
-   inkscape:export-ydpi="322.54193">
+   sodipodi:docname="slipcase-1c1.svg"
+   inkscape:export-filename="C:\Users\Fireshadow\Desktop\slipcase-1c1.png"
+   inkscape:export-xdpi="297.34894"
+   inkscape:export-ydpi="297.34894">
   <defs
      id="defs2">
     <inkscape:path-effect
@@ -77,9 +77,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.70710678"
-     inkscape:cx="584.16412"
-     inkscape:cy="580.65472"
+     inkscape:zoom="0.5"
+     inkscape:cx="638.24206"
+     inkscape:cy="721.10227"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -389,7 +389,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -423,7 +423,7 @@
        inkscape:connector-curvature="0" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.92805099px;line-height:1.25;font-family:'Journal Sans';-inkscape-font-specification:'Journal Sans';letter-spacing:0px;word-spacing:0px;fill:#1e5f27;fill-opacity:1;stroke:none;stroke-width:0.17320128"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.92805099px;line-height:1.25;font-family:'Journal Sans';-inkscape-font-specification:'Journal Sans';letter-spacing:0px;word-spacing:0px;fill:#2d4979;fill-opacity:1;stroke:none;stroke-width:0.17320128;"
        x="9.4930525"
        y="167.25833"
        id="text882"
@@ -432,7 +432,7 @@
          id="tspan880"
          x="9.4930525"
          y="167.25833"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Europe;-inkscape-font-specification:Europe;fill:#1e5f27;fill-opacity:1;stroke-width:0.17320128">электроника</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Europe;-inkscape-font-specification:Europe;fill:#2d4979;fill-opacity:1;stroke-width:0.17320128;">электроника</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Journal Sans New W01 Display';-inkscape-font-specification:'Journal Sans New W01 Display';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -446,7 +446,7 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Journal Sans New W01 Display';-inkscape-font-specification:'Journal Sans New W01 Display';stroke-width:0.26458332" /></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.4560895px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';letter-spacing:0px;word-spacing:0px;fill:#1e5f27;fill-opacity:1;stroke:none;stroke-width:0.18640223"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.4560895px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';letter-spacing:0px;word-spacing:0px;fill:#2d4979;fill-opacity:1;stroke:none;stroke-width:0.18640223;"
        x="11.539111"
        y="162.17636"
        id="text843"><tspan
@@ -454,10 +454,10 @@
          id="tspan841"
          x="11.539111"
          y="162.17636"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Gramatika-Medium;-inkscape-font-specification:Gramatika-Medium;fill:#1e5f27;fill-opacity:1;stroke-width:0.18640223">ВИДЕОКАССЕТА</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Gramatika-Medium;-inkscape-font-specification:Gramatika-Medium;fill:#2d4979;fill-opacity:1;stroke-width:0.18640223;">ВИДЕОКАССЕТА</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.4560895px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';letter-spacing:0px;word-spacing:0px;fill:#1e5f27;fill-opacity:1;stroke:none;stroke-width:0.18640223"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.4560895px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';letter-spacing:0px;word-spacing:0px;fill:#2d4979;fill-opacity:1;stroke:none;stroke-width:0.18640223;"
        x="11.539111"
        y="172.09985"
        id="text843-4"><tspan
@@ -465,24 +465,24 @@
          id="tspan841-2"
          x="11.539111"
          y="172.09985"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Gramatika-Medium;-inkscape-font-specification:Gramatika-Medium;fill:#1e5f27;fill-opacity:1;stroke-width:0.18640223">ВК-180</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Gramatika-Medium;-inkscape-font-specification:Gramatika-Medium;fill:#2d4979;fill-opacity:1;stroke-width:0.18640223;">ВК-180</tspan></text>
     <path
-       style="fill:none;stroke:#1e5f27;stroke-width:1.67545307;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:none;stroke:#2d4979;stroke-width:1.67545307;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M -26.000003,120.13229 H 105"
        id="path863"
        inkscape:connector-curvature="0" />
     <path
-       style="fill:none;stroke:#1e5f27;stroke-width:1.6746068;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:none;stroke:#2d4979;stroke-width:1.6746068;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M -25.867708,150.13229 H 105"
        id="path863-2"
        inkscape:connector-curvature="0" />
     <path
-       style="fill:none;stroke:#1e5f27;stroke-width:1.67545307;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:none;stroke:#2d4979;stroke-width:1.67545307;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M -26.000003,179.1323 H 105"
        id="path863-2-6"
        inkscape:connector-curvature="0" />
     <path
-       style="fill:none;stroke:#1e5f27;stroke-width:1.67545307;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:none;stroke:#2d4979;stroke-width:1.67545307;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M -26.000003,182.1323 H 105"
        id="path863-2-6-8"
        inkscape:connector-curvature="0" />
@@ -503,16 +503,16 @@
        transform="matrix(1.492798,0.39999404,-0.39999404,1.492798,-33.264709,-31.83254)"
        inkscape:export-xdpi="846.30035"
        inkscape:export-ydpi="846.30035"
-       style="fill:#1e5f27;fill-opacity:1">
+       style="fill:#2d4979;fill-opacity:1">
       <path
-         style="fill:#1e5f27;fill-opacity:1;stroke:none;stroke-width:0.35000002;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+         style="fill:#2d4979;fill-opacity:1;stroke:none;stroke-width:0.35000002;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
          d="m 34.933536,102.49531 a 5.8966351,5.8966351 0 0 0 7.222044,4.16964 5.8966351,5.8966351 0 0 0 4.169649,-7.222039 5.8966351,5.8966351 0 0 0 -7.221913,-4.16916 5.8966351,5.8966351 0 0 0 -4.267967,6.764879 l 9.1415,-2.449453 c 7e-6,2.8e-5 0.02896,-0.004 0.01592,0.032 L 42.75893,102.3814 c -0.01044,0.0175 -0.01355,0.0281 -0.03957,0.0269 l -7.875735,-0.33088 a 5.8966351,5.8966351 0 0 0 0.08991,0.4179 z m 4.542174,-2.0012 c -0.0099,-1.485319 0.905495,-2.96655 2.40721,-3.368934 1.784166,-0.478065 3.617909,0.580647 4.095974,2.364812 0.459689,1.715582 -0.501592,3.477512 -2.162405,4.035432 -0.687,0.17167 -1.150916,0.16541 -1.289308,0.15837 -0.03572,-3.9e-4 -0.02893,-0.0353 -0.02893,-0.0353 l 1.960225,-4.385933 c 0.05285,-0.108743 -0.03129,-0.05905 -0.03293,-0.06213 l -4.884818,1.308883 c -0.04971,0.0133 -0.06148,0.0166 -0.06503,-0.0152 z"
          id="path1635-8-7"
          inkscape:connector-curvature="0" />
     </g>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.34529233px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';letter-spacing:0px;word-spacing:0px;fill:#1e5f27;fill-opacity:1;stroke:none;stroke-width:0.08363229"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.34529233px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';letter-spacing:0px;word-spacing:0px;fill:#2d4979;fill-opacity:1;stroke:none;stroke-width:0.08363229;"
        x="-19.047327"
        y="159.77219"
        id="text843-0"><tspan
@@ -520,10 +520,10 @@
          id="tspan841-1"
          x="-19.047327"
          y="159.77219"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Gramatika-Medium;-inkscape-font-specification:Gramatika-Medium;fill:#1e5f27;fill-opacity:1;stroke-width:0.08363229">ВИДЕО</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Gramatika-Medium;-inkscape-font-specification:Gramatika-Medium;fill:#2d4979;fill-opacity:1;stroke-width:0.08363229;">ВИДЕО</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.34529233px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';letter-spacing:0px;word-spacing:0px;fill:#1e5f27;fill-opacity:1;stroke:none;stroke-width:0.08363229"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.34529233px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';letter-spacing:0px;word-spacing:0px;fill:#2d4979;fill-opacity:1;stroke:none;stroke-width:0.08363229;"
        x="-20.899443"
        y="163.83087"
        id="text843-0-3"><tspan
@@ -531,10 +531,10 @@
          id="tspan841-1-5"
          x="-20.899443"
          y="163.83087"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Gramatika-Medium;-inkscape-font-specification:Gramatika-Medium;fill:#1e5f27;fill-opacity:1;stroke-width:0.08363229">КАССЕТА</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Gramatika-Medium;-inkscape-font-specification:Gramatika-Medium;fill:#2d4979;fill-opacity:1;stroke-width:0.08363229;">КАССЕТА</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.34529233px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';letter-spacing:0px;word-spacing:0px;fill:#1e5f27;fill-opacity:1;stroke:none;stroke-width:0.08363229"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.34529233px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';letter-spacing:0px;word-spacing:0px;fill:#2d4979;fill-opacity:1;stroke:none;stroke-width:0.08363229;"
        x="-18.6432"
        y="172.69118"
        id="text843-0-3-8"><tspan
@@ -542,7 +542,7 @@
          id="tspan841-1-5-9"
          x="-18.6432"
          y="172.69118"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Gramatika-Medium;-inkscape-font-specification:Gramatika-Medium;fill:#1e5f27;fill-opacity:1;stroke-width:0.08363229">ВК-180</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Gramatika-Medium;-inkscape-font-specification:Gramatika-Medium;fill:#2d4979;fill-opacity:1;stroke-width:0.08363229;">ВК-180</tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="M 8.9302886e-6,297.00002 H 105"
