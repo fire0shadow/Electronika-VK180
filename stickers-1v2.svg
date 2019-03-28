@@ -15,7 +15,7 @@
    version="1.1"
    id="svg2636"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   sodipodi:docname="variant-1.svg"
+   sodipodi:docname="stickers-1v2.svg"
    inkscape:export-filename="C:\Users\Fireshadow\Documents\VK180\variant-1.png"
    inkscape:export-xdpi="577.88312"
    inkscape:export-ydpi="577.88312">
@@ -298,9 +298,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.8"
-     inkscape:cx="230.82616"
-     inkscape:cy="103.26924"
+     inkscape:zoom="5.6"
+     inkscape:cx="293.94448"
+     inkscape:cy="210.82068"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -1308,7 +1308,7 @@
          sodipodi:nodetypes="ccccc"
          inkscape:connector-curvature="0"
          style="fill:#189a5c;fill-opacity:1;stroke:none;stroke-width:0.40000001;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="m 52.854404,115.38244 v 45.54613 h -2.205596 v -45.54613 z"
+         d="m 52.854404,115.38244 v 45.54613 H 50.648808 L 49.98735,115.38244 Z"
          id="path1235-7" />
       <path
          inkscape:connector-curvature="0"
@@ -1514,7 +1514,7 @@
          sodipodi:nodetypes="ccccc"
          inkscape:connector-curvature="0"
          style="fill:#189a5c;fill-opacity:1;stroke:none;stroke-width:0.40000001;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="m 52.854404,115.38244 v 45.54613 h -2.205596 v -45.54613 z"
+         d="m 52.854404,115.38244 v 45.54613 h -2.205596 l -0.614211,-45.54613 z"
          id="path1235-7-2" />
       <path
          inkscape:connector-curvature="0"
