@@ -17,8 +17,8 @@
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
    sodipodi:docname="slipcase-1.svg"
    inkscape:export-filename="C:\Users\Fireshadow\Documents\VK180\slipcase-1.png"
-   inkscape:export-xdpi="322.54193"
-   inkscape:export-ydpi="322.54193">
+   inkscape:export-xdpi="292.78958"
+   inkscape:export-ydpi="292.78958">
   <defs
      id="defs2">
     <inkscape:path-effect
@@ -77,9 +77,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4142136"
-     inkscape:cx="410.19698"
-     inkscape:cy="607.46025"
+     inkscape:zoom="2.8284272"
+     inkscape:cx="392.68209"
+     inkscape:cy="768.32287"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -105,8 +105,8 @@
      inkscape:snap-smooth-nodes="true"
      inkscape:snap-midpoints="true"
      inkscape:snap-intersection-paths="true"
-     inkscape:snap-nodes="true"
-     inkscape:snap-others="true"
+     inkscape:snap-nodes="false"
+     inkscape:snap-others="false"
      inkscape:snap-global="true">
     <sodipodi:guide
        position="141.1323,36.132279"
@@ -499,16 +499,23 @@
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccccccssscccccc" />
     <g
-       id="g1641-6-0"
-       transform="matrix(1.492798,0.39999404,-0.39999404,1.492798,-33.264709,-31.83254)"
-       inkscape:export-xdpi="846.30035"
-       inkscape:export-ydpi="846.30035"
-       style="fill:#47773b;fill-opacity:1">
+       transform="matrix(0,-1.5453888,1.5453888,0,-169.5355,179.0824)"
+       style="fill:#000000;fill-opacity:1"
+       id="g824">
+      <ellipse
+         ry="5.8967743"
+         rx="5.8965206"
+         cy="28.430737"
+         cx="-101.2918"
+         id="path826"
+         style="fill:#47773b;fill-opacity:1;stroke:none;stroke-width:0.34382179;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+         transform="rotate(-90)" />
       <path
-         style="fill:#47773b;fill-opacity:1;stroke:none;stroke-width:0.35000002;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
-         d="m 34.933536,102.49531 a 5.8966351,5.8966351 0 0 0 7.222044,4.16964 5.8966351,5.8966351 0 0 0 4.169649,-7.222039 5.8966351,5.8966351 0 0 0 -7.221913,-4.16916 5.8966351,5.8966351 0 0 0 -4.267967,6.764879 l 9.1415,-2.449453 c 7e-6,2.8e-5 0.02896,-0.004 0.01592,0.032 L 42.75893,102.3814 c -0.01044,0.0175 -0.01355,0.0281 -0.03957,0.0269 l -7.875735,-0.33088 a 5.8966351,5.8966351 0 0 0 0.08991,0.4179 z m 4.542174,-2.0012 c -0.0099,-1.485319 0.905495,-2.96655 2.40721,-3.368934 1.784166,-0.478065 3.617909,0.580647 4.095974,2.364812 0.459689,1.715582 -0.501592,3.477512 -2.162405,4.035432 -0.687,0.17167 -1.150916,0.16541 -1.289308,0.15837 -0.03572,-3.9e-4 -0.02893,-0.0353 -0.02893,-0.0353 l 1.960225,-4.385933 c 0.05285,-0.108743 -0.03129,-0.05905 -0.03293,-0.06213 l -4.884818,1.308883 c -0.04971,0.0133 -0.06148,0.0166 -0.06503,-0.0152 z"
-         id="path1635-8-7"
-         inkscape:connector-curvature="0" />
+         sodipodi:nodetypes="ccscccccsccccccccc"
+         inkscape:connector-curvature="0"
+         id="path1710-0"
+         d="m 31.386451,103.38377 c 0,-1.37526 -1.056048,-2.49658 -2.327465,-2.82815 -0.02786,-0.005 -0.02777,0.007 -0.02777,0.0521 v 4.47349 c -0.0036,6.9e-4 0.02017,0.0839 -0.06068,0.0139 l -3.298752,-2.67906 c 0,0 -0.02813,-0.0138 -0.03689,0.0166 -0.03768,0.11664 -0.149265,0.5116 -0.159872,1.1379 0.09647,1.54682 1.381863,2.77158 2.952984,2.77158 1.633928,0 2.958386,-1.32445 2.958386,-2.95838 z M 28.786858,96.169334 26.6808,102.88848 c -0.0071,0.0221 8.75e-4,0.0271 0.01344,0.04 l 2.075975,1.68622 c 0.02751,0.0196 0.03149,-0.006 0.03149,-0.006 l 8e-6,-8.434781 c -0.0017,-0.0298 -0.01486,-0.0044 -0.01486,-0.0044 z"
+         style="fill:#e6ffff;fill-opacity:1;stroke:none;stroke-width:0.30414146;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke" />
     </g>
     <text
        xml:space="preserve"
